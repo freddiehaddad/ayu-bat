@@ -5,6 +5,10 @@ Handcrafted implementation of the [ayu] [^1] theme for the [bat] [^2] cli tool.
 **[ayu]** is a bright color theme and comes in three versions — _dark_,
 _mirage_, and _light_ — for all-day comfortable work.
 
+<p align="center">
+  <img src="./colors.svg" alt="ayu colors">
+</p>
+
 ## Configuration
 
 Copy these theme files to the configuration directory for bat. 
